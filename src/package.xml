@@ -145,6 +145,7 @@
     </types>
     <types>
         <members>CMP_Acc_Naming_Dropdown</members>
+        <members>CMP_Deep_Cloning</members>
         <members>CMP_RecTypes</members>
         <members>CMP_RecTypes_Dropdown</members>
         <members>STG_App</members>
@@ -706,6 +707,10 @@
         <members>Trigger_Handler__c.All</members>
         <members>Trigger_Handler__c.All_Main_Fields</members>
         <name>ListView</name>
+    </types>
+    <types>
+        <members>Plan_Requirement__c.Deep_Clone</members>
+        <name>QuickAction</name>
     </types>
     <types>
         <members>ca</members>
