@@ -25,6 +25,7 @@ Validate Edit Mode For HEDA Settings, SYSTEM
     # Error Notification Recipient
     Select From List By Label       //select[@name='error_to_type']   User
 
+
 *** Keywords ***
 
 
